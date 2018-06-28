@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      首页 - 我的 测试 博客网页
+    </title>
+    <link rel = "shortcut icon" href="/static/img/favicon.png">
+    <link rel = "stylesheet" type = "text/css" href="/static/css/bootstrap.min.css">
+    
+    </head>
+
+  <body>
+    <div class= "navbar navbar-default navbar-fixed-top">
+      <div class="container">
+	<a class="navbar-brand" href="/">我的测试页</a>
+	<div>
+	<u1un class="nav navbar-nav">
+	  <li class="active"><a href="/">首页</a></li>
+	  <li><a href="/category">分类</a></li>
+	  <li><a href="/topic">文章</a><li>
+	</u1>
+	</div>
+      </div>
+      </div>
+
+    <div class="container">
+      <div class="page-header">
+	<h1>我的第一篇博客</h1>
+	<h6 class="text-muted">文章与发表于 2018年 5月 14号 14：30, 共有100次浏览， 200个赞</h6>
+	<p>
+	  大家好，这是我第一篇测试！
+	  </p>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="http://cdn.ststicfile.org/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+    </body>
+
+  
+</html>
